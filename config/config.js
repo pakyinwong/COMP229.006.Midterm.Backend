@@ -1,3 +1,3 @@
 module.exports = {
-    "ATLASDB":"mongodb+srv://<username>:<password>@<hostname>/<database>?retryWrites=true&w=majority"
-}
+    "ATLASDB" : "mongodb+srv://dbuser:SzVFql5oGsOUCRve@clustercomp229.aubfg.mongodb.net/?retryWrites=true&w=majority&appName=ClusterCOMP229"
+  }
